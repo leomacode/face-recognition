@@ -4,4 +4,4 @@ Once an image url is in the search bar, for example: https://www.ldatschool.ca/w
 
 View demo: https://leomacode.github.io/face-recognition/.
 
-This app currently only has front-end.
+This app currently only has front-end. Any user can sing in by clicking the "Sign In" button.
